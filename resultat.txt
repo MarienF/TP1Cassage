@@ -1,0 +1,6 @@
+Le mot de passe de "giselle" est "brazil"
+Temps pour le trouver : 0.001558065414428711 seconds
+------------------------
+Le mot de passe de "root" est "t3_p@hEN_v12"
+Temps pour le trouver : 0.0025300979614257812 seconds
+------------------------
